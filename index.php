@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello goobamma!";
-echo "Poori tindayta hogi malko";
+echo "Hello goobamma Poori tindayta hogi malko!";
+
